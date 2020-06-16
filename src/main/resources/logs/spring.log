@@ -1,0 +1,179 @@
+2020-06-15 13:36:22 - Starting MiniProjetRevueApplication on ilyass-PC with PID 3528 (C:\Users\ilyass\eclipse-workspace\MiniProjetRevue\target\classes started by ilyass in C:\Users\ilyass\eclipse-workspace\MiniProjetRevue)
+2020-06-15 13:36:22 - No active profile set, falling back to default profiles: default
+2020-06-15 13:36:28 - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+2020-06-15 13:36:28 - Finished Spring Data repository scanning in 252ms. Found 9 JPA repository interfaces.
+2020-06-15 13:36:30 - Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@1f387978' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-06-15 13:36:30 - Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-06-15 13:36:38 - Tomcat initialized with port(s): 8080 (http)
+2020-06-15 13:36:39 - Starting service [Tomcat]
+2020-06-15 13:36:39 - Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-06-15 13:36:44 - Initializing Spring embedded WebApplicationContext
+2020-06-15 13:36:44 - Root WebApplicationContext: initialization completed in 22413 ms
+2020-06-15 13:36:54 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-15 13:36:56 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2020-06-15 13:36:59 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-06-15 13:37:01 - HHH000412: Hibernate ORM core version 5.4.15.Final
+2020-06-15 13:37:15 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-06-15 13:37:16 - Adding type registration boolean -> org.hibernate.type.BooleanType@51a4033a
+2020-06-15 13:37:16 - Adding type registration boolean -> org.hibernate.type.BooleanType@51a4033a
+2020-06-15 13:37:16 - Adding type registration java.lang.Boolean -> org.hibernate.type.BooleanType@51a4033a
+2020-06-15 13:37:16 - Adding type registration numeric_boolean -> org.hibernate.type.NumericBooleanType@667790f4
+2020-06-15 13:37:16 - Adding type registration true_false -> org.hibernate.type.TrueFalseType@38f7eeb5
+2020-06-15 13:37:16 - Adding type registration yes_no -> org.hibernate.type.YesNoType@3b28f92f
+2020-06-15 13:37:16 - Adding type registration byte -> org.hibernate.type.ByteType@33c7d7c6
+2020-06-15 13:37:16 - Adding type registration byte -> org.hibernate.type.ByteType@33c7d7c6
+2020-06-15 13:37:16 - Adding type registration java.lang.Byte -> org.hibernate.type.ByteType@33c7d7c6
+2020-06-15 13:37:16 - Adding type registration character -> org.hibernate.type.CharacterType@190044ff
+2020-06-15 13:37:16 - Adding type registration char -> org.hibernate.type.CharacterType@190044ff
+2020-06-15 13:37:16 - Adding type registration java.lang.Character -> org.hibernate.type.CharacterType@190044ff
+2020-06-15 13:37:16 - Adding type registration short -> org.hibernate.type.ShortType@11b927d4
+2020-06-15 13:37:16 - Adding type registration short -> org.hibernate.type.ShortType@11b927d4
+2020-06-15 13:37:16 - Adding type registration java.lang.Short -> org.hibernate.type.ShortType@11b927d4
+2020-06-15 13:37:16 - Adding type registration integer -> org.hibernate.type.IntegerType@1a087453
+2020-06-15 13:37:16 - Adding type registration int -> org.hibernate.type.IntegerType@1a087453
+2020-06-15 13:37:16 - Adding type registration java.lang.Integer -> org.hibernate.type.IntegerType@1a087453
+2020-06-15 13:37:16 - Adding type registration long -> org.hibernate.type.LongType@45f80a3a
+2020-06-15 13:37:16 - Adding type registration long -> org.hibernate.type.LongType@45f80a3a
+2020-06-15 13:37:16 - Adding type registration java.lang.Long -> org.hibernate.type.LongType@45f80a3a
+2020-06-15 13:37:16 - Adding type registration float -> org.hibernate.type.FloatType@222df111
+2020-06-15 13:37:16 - Adding type registration float -> org.hibernate.type.FloatType@222df111
+2020-06-15 13:37:16 - Adding type registration java.lang.Float -> org.hibernate.type.FloatType@222df111
+2020-06-15 13:37:16 - Adding type registration double -> org.hibernate.type.DoubleType@9b2ebb0
+2020-06-15 13:37:16 - Adding type registration double -> org.hibernate.type.DoubleType@9b2ebb0
+2020-06-15 13:37:16 - Adding type registration java.lang.Double -> org.hibernate.type.DoubleType@9b2ebb0
+2020-06-15 13:37:16 - Adding type registration big_decimal -> org.hibernate.type.BigDecimalType@7026c30b
+2020-06-15 13:37:16 - Adding type registration java.math.BigDecimal -> org.hibernate.type.BigDecimalType@7026c30b
+2020-06-15 13:37:16 - Adding type registration big_integer -> org.hibernate.type.BigIntegerType@58e21db2
+2020-06-15 13:37:16 - Adding type registration java.math.BigInteger -> org.hibernate.type.BigIntegerType@58e21db2
+2020-06-15 13:37:16 - Adding type registration string -> org.hibernate.type.StringType@55251542
+2020-06-15 13:37:16 - Adding type registration java.lang.String -> org.hibernate.type.StringType@55251542
+2020-06-15 13:37:16 - Adding type registration nstring -> org.hibernate.type.StringNVarcharType@19558523
+2020-06-15 13:37:16 - Adding type registration ncharacter -> org.hibernate.type.CharacterNCharType@7c56860d
+2020-06-15 13:37:16 - Adding type registration url -> org.hibernate.type.UrlType@665c2f96
+2020-06-15 13:37:16 - Adding type registration java.net.URL -> org.hibernate.type.UrlType@665c2f96
+2020-06-15 13:37:16 - Adding type registration Duration -> org.hibernate.type.DurationType@58abefcc
+2020-06-15 13:37:16 - Adding type registration java.time.Duration -> org.hibernate.type.DurationType@58abefcc
+2020-06-15 13:37:16 - Adding type registration Instant -> org.hibernate.type.InstantType@50f5d57a
+2020-06-15 13:37:16 - Adding type registration java.time.Instant -> org.hibernate.type.InstantType@50f5d57a
+2020-06-15 13:37:16 - Adding type registration LocalDateTime -> org.hibernate.type.LocalDateTimeType@7d662ab0
+2020-06-15 13:37:16 - Adding type registration java.time.LocalDateTime -> org.hibernate.type.LocalDateTimeType@7d662ab0
+2020-06-15 13:37:16 - Adding type registration LocalDate -> org.hibernate.type.LocalDateType@35edbac6
+2020-06-15 13:37:16 - Adding type registration java.time.LocalDate -> org.hibernate.type.LocalDateType@35edbac6
+2020-06-15 13:37:16 - Adding type registration LocalTime -> org.hibernate.type.LocalTimeType@7256f8a0
+2020-06-15 13:37:16 - Adding type registration java.time.LocalTime -> org.hibernate.type.LocalTimeType@7256f8a0
+2020-06-15 13:37:16 - Adding type registration OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@1cd9f496
+2020-06-15 13:37:16 - Adding type registration java.time.OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@1cd9f496
+2020-06-15 13:37:16 - Adding type registration OffsetTime -> org.hibernate.type.OffsetTimeType@5da4e699
+2020-06-15 13:37:16 - Adding type registration java.time.OffsetTime -> org.hibernate.type.OffsetTimeType@5da4e699
+2020-06-15 13:37:16 - Adding type registration ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@62530c29
+2020-06-15 13:37:16 - Adding type registration java.time.ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@62530c29
+2020-06-15 13:37:16 - Adding type registration date -> org.hibernate.type.DateType@607864b5
+2020-06-15 13:37:16 - Adding type registration java.sql.Date -> org.hibernate.type.DateType@607864b5
+2020-06-15 13:37:16 - Adding type registration time -> org.hibernate.type.TimeType@6778c384
+2020-06-15 13:37:16 - Adding type registration java.sql.Time -> org.hibernate.type.TimeType@6778c384
+2020-06-15 13:37:16 - Adding type registration timestamp -> org.hibernate.type.TimestampType@6e90747
+2020-06-15 13:37:16 - Adding type registration java.sql.Timestamp -> org.hibernate.type.TimestampType@6e90747
+2020-06-15 13:37:16 - Adding type registration java.util.Date -> org.hibernate.type.TimestampType@6e90747
+2020-06-15 13:37:16 - Adding type registration dbtimestamp -> org.hibernate.type.DbTimestampType@122a86db
+2020-06-15 13:37:16 - Adding type registration calendar -> org.hibernate.type.CalendarType@1f98a1cc
+2020-06-15 13:37:16 - Adding type registration java.util.Calendar -> org.hibernate.type.CalendarType@1f98a1cc
+2020-06-15 13:37:16 - Adding type registration java.util.GregorianCalendar -> org.hibernate.type.CalendarType@1f98a1cc
+2020-06-15 13:37:16 - Adding type registration calendar_date -> org.hibernate.type.CalendarDateType@5f0e4322
+2020-06-15 13:37:16 - Adding type registration calendar_time -> org.hibernate.type.CalendarTimeType@5a7c17c4
+2020-06-15 13:37:16 - Adding type registration locale -> org.hibernate.type.LocaleType@4eb94466
+2020-06-15 13:37:16 - Adding type registration java.util.Locale -> org.hibernate.type.LocaleType@4eb94466
+2020-06-15 13:37:16 - Adding type registration currency -> org.hibernate.type.CurrencyType@9e72138
+2020-06-15 13:37:16 - Adding type registration java.util.Currency -> org.hibernate.type.CurrencyType@9e72138
+2020-06-15 13:37:16 - Adding type registration timezone -> org.hibernate.type.TimeZoneType@2fd99084
+2020-06-15 13:37:16 - Adding type registration java.util.TimeZone -> org.hibernate.type.TimeZoneType@2fd99084
+2020-06-15 13:37:16 - Adding type registration class -> org.hibernate.type.ClassType@63e6bac5
+2020-06-15 13:37:16 - Adding type registration java.lang.Class -> org.hibernate.type.ClassType@63e6bac5
+2020-06-15 13:37:16 - Adding type registration uuid-binary -> org.hibernate.type.UUIDBinaryType@6fe3eb6
+2020-06-15 13:37:16 - Adding type registration java.util.UUID -> org.hibernate.type.UUIDBinaryType@6fe3eb6
+2020-06-15 13:37:16 - Adding type registration uuid-char -> org.hibernate.type.UUIDCharType@8789d9e
+2020-06-15 13:37:16 - Adding type registration binary -> org.hibernate.type.BinaryType@7f908e3f
+2020-06-15 13:37:16 - Adding type registration byte[] -> org.hibernate.type.BinaryType@7f908e3f
+2020-06-15 13:37:16 - Adding type registration [B -> org.hibernate.type.BinaryType@7f908e3f
+2020-06-15 13:37:16 - Adding type registration wrapper-binary -> org.hibernate.type.WrapperBinaryType@2136b7d1
+2020-06-15 13:37:16 - Adding type registration Byte[] -> org.hibernate.type.WrapperBinaryType@2136b7d1
+2020-06-15 13:37:16 - Adding type registration [Ljava.lang.Byte; -> org.hibernate.type.WrapperBinaryType@2136b7d1
+2020-06-15 13:37:16 - Adding type registration row_version -> org.hibernate.type.RowVersionType@6ba6771
+2020-06-15 13:37:16 - Adding type registration image -> org.hibernate.type.ImageType@7fb32f5
+2020-06-15 13:37:16 - Adding type registration characters -> org.hibernate.type.CharArrayType@7cce7040
+2020-06-15 13:37:16 - Adding type registration char[] -> org.hibernate.type.CharArrayType@7cce7040
+2020-06-15 13:37:16 - Adding type registration [C -> org.hibernate.type.CharArrayType@7cce7040
+2020-06-15 13:37:16 - Adding type registration wrapper-characters -> org.hibernate.type.CharacterArrayType@292d4e2e
+2020-06-15 13:37:16 - Adding type registration [Ljava.lang.Character; -> org.hibernate.type.CharacterArrayType@292d4e2e
+2020-06-15 13:37:16 - Adding type registration Character[] -> org.hibernate.type.CharacterArrayType@292d4e2e
+2020-06-15 13:37:16 - Adding type registration text -> org.hibernate.type.TextType@13b45aa4
+2020-06-15 13:37:16 - Adding type registration ntext -> org.hibernate.type.NTextType@54aa702f
+2020-06-15 13:37:16 - Adding type registration blob -> org.hibernate.type.BlobType@321c2596
+2020-06-15 13:37:16 - Adding type registration java.sql.Blob -> org.hibernate.type.BlobType@321c2596
+2020-06-15 13:37:16 - Adding type registration materialized_blob -> org.hibernate.type.MaterializedBlobType@4c1c8e88
+2020-06-15 13:37:16 - Adding type registration clob -> org.hibernate.type.ClobType@64de8459
+2020-06-15 13:37:16 - Adding type registration java.sql.Clob -> org.hibernate.type.ClobType@64de8459
+2020-06-15 13:37:16 - Adding type registration nclob -> org.hibernate.type.NClobType@20ba12b5
+2020-06-15 13:37:16 - Adding type registration java.sql.NClob -> org.hibernate.type.NClobType@20ba12b5
+2020-06-15 13:37:16 - Adding type registration materialized_clob -> org.hibernate.type.MaterializedClobType@391a6534
+2020-06-15 13:37:16 - Adding type registration materialized_nclob -> org.hibernate.type.MaterializedNClobType@6d37b509
+2020-06-15 13:37:16 - Adding type registration serializable -> org.hibernate.type.SerializableType@58fdeb98
+2020-06-15 13:37:16 - Adding type registration object -> org.hibernate.type.ObjectType@663e0be2
+2020-06-15 13:37:16 - Adding type registration java.lang.Object -> org.hibernate.type.ObjectType@663e0be2
+2020-06-15 13:37:16 - Adding type registration imm_date -> org.hibernate.type.AdaptedImmutableType@102d44ce
+2020-06-15 13:37:16 - Adding type registration imm_time -> org.hibernate.type.AdaptedImmutableType@6da3c32
+2020-06-15 13:37:16 - Adding type registration imm_timestamp -> org.hibernate.type.AdaptedImmutableType@f1f75e5
+2020-06-15 13:37:16 - Adding type registration imm_dbtimestamp -> org.hibernate.type.AdaptedImmutableType@6b0404c5
+2020-06-15 13:37:16 - Adding type registration imm_calendar -> org.hibernate.type.AdaptedImmutableType@1175265f
+2020-06-15 13:37:16 - Adding type registration imm_calendar_date -> org.hibernate.type.AdaptedImmutableType@4619a3ef
+2020-06-15 13:37:16 - Adding type registration imm_binary -> org.hibernate.type.AdaptedImmutableType@32dd5694
+2020-06-15 13:37:16 - Adding type registration imm_serializable -> org.hibernate.type.AdaptedImmutableType@79344e26
+2020-06-15 13:37:17 - HikariPool-1 - Starting...
+2020-06-15 13:37:25 - HikariPool-1 - Start completed.
+2020-06-15 13:37:25 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2020-06-15 13:37:29 - Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@67974673] to MetadataBuildingContext [org.hibernate.boot.internal.MetadataBuildingContextRootImpl@13233b24]
+2020-06-15 13:37:34 - Using NAMED-based conversion for Enum com.revue.beans.EtatArticle
+2020-06-15 13:37:34 - Using NAMED-based conversion for Enum com.revue.config.security.Roles
+2020-06-15 13:37:34 - Using NAMED-based conversion for Enum com.revue.beans.QualificationArticle
+2020-06-15 13:37:37 - Using NAMED-based conversion for Enum com.revue.beans.EtatArticle
+2020-06-15 13:37:37 - Using NAMED-based conversion for Enum com.revue.config.security.Roles
+2020-06-15 13:37:37 - Using NAMED-based conversion for Enum com.revue.beans.QualificationArticle
+2020-06-15 13:37:38 - Scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration@67974673] to SessionFactoryImpl [org.hibernate.internal.SessionFactoryImpl@2624517c]
+2020-06-15 13:37:54 - Using NAMED-based conversion for Enum com.revue.beans.EtatArticle
+2020-06-15 13:37:54 - Using NAMED-based conversion for Enum com.revue.beans.EtatArticle
+2020-06-15 13:37:54 - Using NAMED-based conversion for Enum com.revue.beans.EtatArticle
+2020-06-15 13:37:54 - Using NAMED-based conversion for Enum com.revue.beans.EtatArticle
+2020-06-15 13:37:54 - Using NAMED-based conversion for Enum com.revue.config.security.Roles
+2020-06-15 13:37:54 - Using NAMED-based conversion for Enum com.revue.config.security.Roles
+2020-06-15 13:37:54 - Using NAMED-based conversion for Enum com.revue.config.security.Roles
+2020-06-15 13:37:54 - Using NAMED-based conversion for Enum com.revue.config.security.Roles
+2020-06-15 13:37:54 - Using NAMED-based conversion for Enum com.revue.beans.QualificationArticle
+2020-06-15 13:37:54 - Using NAMED-based conversion for Enum com.revue.beans.QualificationArticle
+2020-06-15 13:37:54 - Using NAMED-based conversion for Enum com.revue.beans.QualificationArticle
+2020-06-15 13:37:54 - Using NAMED-based conversion for Enum com.revue.beans.QualificationArticle
+2020-06-15 13:38:00 - Using NAMED-based conversion for Enum com.revue.beans.EtatArticle
+2020-06-15 13:38:00 - Using NAMED-based conversion for Enum com.revue.beans.EtatArticle
+2020-06-15 13:38:00 - Using NAMED-based conversion for Enum com.revue.config.security.Roles
+2020-06-15 13:38:00 - Using NAMED-based conversion for Enum com.revue.config.security.Roles
+2020-06-15 13:38:00 - Using NAMED-based conversion for Enum com.revue.beans.QualificationArticle
+2020-06-15 13:38:00 - Using NAMED-based conversion for Enum com.revue.beans.QualificationArticle
+2020-06-15 13:38:03 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2020-06-15 13:38:04 - Handling #sessionFactoryCreated from [org.hibernate.internal.SessionFactoryImpl@2624517c] for TypeConfiguration
+2020-06-15 13:38:04 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-06-15 13:38:11 - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-06-15 13:38:13 - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@33188612, org.springframework.security.web.context.SecurityContextPersistenceFilter@78fe204a, org.springframework.security.web.header.HeaderWriterFilter@2b916808, org.springframework.security.web.authentication.logout.LogoutFilter@3878be7b, com.revue.config.security.JWTAuthorizationFilter@4733f6f5, com.revue.config.security.JWTAuthenticationFilter@6ccac6f4, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7a3269f5, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@c689973, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@438c9aa7, org.springframework.security.web.session.SessionManagementFilter@a6c54c3, org.springframework.security.web.access.ExceptionTranslationFilter@2d0b05, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@75fd65c]
+2020-06-15 13:38:20 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-06-15 13:38:20 - Context refreshed
+2020-06-15 13:38:24 - Found 1 custom documentation plugin(s)
+2020-06-15 13:38:25 - Scanning for api listing references
+2020-06-15 13:38:29 - Triggering deferred initialization of Spring Data repositories…
+2020-06-15 13:38:33 - Spring Data repositories initialized!
+2020-06-15 13:38:34 - Started MiniProjetRevueApplication in 147.347 seconds (JVM running for 203.178)
+2020-06-15 13:38:34 - Start of application
+2020-06-15 13:38:34 - End of application
+2020-06-15 13:48:07 - Application shutdown requested.
+2020-06-15 13:48:08 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-06-15 13:48:08 - Handling #sessionFactoryClosed from [org.hibernate.internal.SessionFactoryImpl@2624517c] for TypeConfiguration
+2020-06-15 13:48:08 - Un-scoping TypeConfiguration [org.hibernate.type.spi.TypeConfiguration$Scope@41cdd010] from SessionFactory [org.hibernate.internal.SessionFactoryImpl@2624517c]
+2020-06-15 13:48:08 - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-06-15 13:48:08 - HikariPool-1 - Shutdown initiated...
+2020-06-15 13:48:09 - HikariPool-1 - Shutdown completed.
